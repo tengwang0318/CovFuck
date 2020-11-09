@@ -10,3 +10,5 @@
 5.使用selenium的webdriver进行bilibili数据爬取
 
 6.多进程豆瓣爬虫
+
+7.糗事百科爬虫（无语，用户等级居然分男女，de了好久的bug
